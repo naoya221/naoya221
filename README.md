@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 ございます。是非、ご覧ください！<br>
 
 ランナー向けアプリ<br>
-URL：https://runreco.com<br>
+URL：　　https://runreco.com<br>
+リポジトリ：https://github.com/naoya221/run_r
