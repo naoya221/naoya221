@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 ベストタイムを登録すれば自動で練習メニューを作成できるRunRecordを作成しました。<br>
 前職のコーチやお客様に見ていただく機会があり、その際頂いたフィードバックを元に改修した部分も<br>
 ございます。是非、ご覧ください！<br>
-　URL：https://runreco.com<br>
-　ランニングコースの共有や練習メニューの自動作成機能があります。<br>
+
+URL：https://runreco.com<br>
