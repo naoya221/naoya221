@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **naoya221/naoya221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+現在転職活動中です。<br>
+成果物としてランナー向けアプリケーションの「RunRecord」を作成しました。<br>
+　URL：https://runreco.com
+　ランニングコースの共有や練習メニューの自動作成機能があります。<br>
