@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 前職のコーチやお客様に見ていただく機会があり、その際頂いたフィードバックを元に改修した部分も<br>
 ございます。是非、ご覧ください！<br>
 
+ランナー向けアプリ<br>
 URL：https://runreco.com<br>
